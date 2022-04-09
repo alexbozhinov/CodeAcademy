@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Desktop/ProjectsGit/StartCraft/Code/Skeleton/build/CMakeFiles/starcraft.dir
+C:/Users/Lenovo/Desktop/ProjectsGit/StartCraft/Code/Skeleton/build/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/ProjectsGit/StartCraft/Code/Skeleton/build/CMakeFiles/rebuild_cache.dir

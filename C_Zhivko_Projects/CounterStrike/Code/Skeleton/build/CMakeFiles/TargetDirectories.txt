@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Desktop/CounterStrike/Code/Skeleton/build/CMakeFiles/counter_strike.dir
+C:/Users/Lenovo/Desktop/CounterStrike/Code/Skeleton/build/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/CounterStrike/Code/Skeleton/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+1001;Uninitialized param;You must set the type of the parameter in order to initialize it;01.11.2022;undefined;undefined;1;4
+1002;Wrong type of viriable;The variable must be the same type as the pointer;01.02.2022;undefined;undefined;2;5
+1003;char* can't go with int;the pointer is declared as char and can't be used with int type;01.03.2022;undefined;undefined;3;7
+1004;expecting;missing on line 16;01.04.2022;undefined;undefined;2;10
+1005;expecting argument before '}';no arguments before the '}' , check your code;01.05.2022;undefined;undefined;6;9
+1006;i not declared;i must be declared to beused in for();01.06.2022;undefined;undefined;8;4
+1007;strcpy not included;include string.h in order to use this function;01.07.2021;undefined;undefined;1;5
+1008;cant use gets() function;include string.h in order to use this function;01.08.2022;undefined;undefined;2;7
+1009;wrong usage of %d;%d can't be used with strings, use %s;01.09.2022;undefined;undefined;8;10
+1010;p not declared as pointer;use *p to declare a pointer;01.10.2022;undefined;undefined;3;9

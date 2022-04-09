@@ -1,0 +1,10 @@
+ID;SHORT INFORMATION;MAIN INFORMATION;FOUND DATE;REPAIR DATE;CLOSE DATE;PROGRAMMER; ; ; ; ;TESTER; ; ; ; ;STATE
+1002;Wrong type of viriable;The variable must be the same type as the pointer;01.02.2022;00.00.00;00.00.00;2;Anton;Rumenov;Stanchev;programmer;5;Victoria;Andreeva;Georgieva;tester;fixed
+1004;expecting;missing on line 16;01.04.2022;00.00.00;00.00.00;2;Anton;Rumenov;Stanchev;programmer;10;Dimitar;Plamenov;Ivanov;tester;new
+1003;char* can't go with int;the pointer is declared as char and can't be used with int type;01.03.2022;00.00.00;00.00.00;3;Stamat;Ivanov;Stamatov;programmer;7;Georgi;Ivanov;Vasilev;tester;new
+1008;cant use gets() function;include string.h in order to use this function;01.08.2022;00.00.00;00.00.00;2;Anton;Rumenov;Stanchev;programmer;7;Georgi;Ivanov;Vasilev;tester;new
+1005;expecting argument before '}';no arguments before the '}' , check your code;01.05.2022;00.00.00;00.00.00;6;Konstantin;Nevelinov;Dimitrov;programmer;9;Silvia;Dimitrova;Ilieva;tester;new
+1006;i not declared;i must be declared to beused in for();01.06.2022;00.00.00;00.00.00;8;Milen;Petrov;Chechev;programmer;4;Mihail;Plamenov;Petrov;tester;new
+1010;p not declared as pointer;use *p to declare a pointer;01.10.2022;00.00.00;00.00.00;3;Stamat;Ivanov;Stamatov;programmer;9;Silvia;Dimitrova;Ilieva;tester;new
+1001;Uninitialized param;You must set the type of the parameter in order to initialize it;01.11.2022;00.00.00;00.00.00;1;Aleks;Veselinov;Bozhinov;programmer;4;Mihail;Plamenov;Petrov;tester;new
+1009;wrong usage of %d;%d can't be used with strings, use %s;01.09.2022;00.00.00;00.00.00;8;Milen;Petrov;Chechev;programmer;10;Dimitar;Plamenov;Ivanov;tester;new
